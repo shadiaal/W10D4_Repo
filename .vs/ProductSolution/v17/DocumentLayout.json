@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B2E5D-9B04-4BB0-9CFE-8540E5270F3D}|ProductApi\\ProductApi.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week10\\w10d4_classtask\\w10d4_repo\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B2E5D-9B04-4BB0-9CFE-8540E5270F3D}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0002E1B-8A4F-40A4-8E53-34B6D22B2DBE}|ProductApi.Tests\\ProductApi.Tests.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week10\\w10d4_classtask\\w10d4_repo\\productapi.tests\\productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0002E1B-8A4F-40A4-8E53-34B6D22B2DBE}|ProductApi.Tests\\ProductApi.Tests.csproj|solutionrelative:productapi.tests\\productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:55:12.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi.Tests\\ProductApiTests.cs",
+              "RelativeDocumentMoniker": "ProductApi.Tests\\ProductApiTests.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi.Tests\\ProductApiTests.cs",
+              "RelativeToolTip": "ProductApi.Tests\\ProductApiTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:54:26.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

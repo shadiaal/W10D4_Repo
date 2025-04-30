@@ -1,0 +1,2 @@
+C:\Users\soosh\Desktop\Elm-Training Program\Practice\week10\W10D4_ClassTask\W10D4_Repo\ProductApi\wwwroot\index.html
+wwwroot\index.html
