@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "2yTRceC1M38OvJFLV860jmr8JVB6y5WZFBBqD3v5ATU=",
+  "Source": "ProductApi",
+  "BasePath": "_content/ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductApi\\wwwroot",
+      "Source": "ProductApi",
+      "ContentRoot": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi\\wwwroot\\index.html",
+      "SourceId": "ProductApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xd06djfk9t",
+      "Integrity": "dZD3OG9rTvESm7rDv2Nec/2tVxJPf1ORrVsS70J8dxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZD3OG9rTvESm7rDv2Nec/2tVxJPf1ORrVsS70J8dxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 07:00:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZD3OG9rTvESm7rDv2Nec/2tVxJPf1ORrVsS70J8dxs="
+        }
+      ]
+    },
+    {
+      "Route": "index.xd06djfk9t.html",
+      "AssetFile": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week10\\W10D4_ClassTask\\W10D4_Repo\\ProductApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZD3OG9rTvESm7rDv2Nec/2tVxJPf1ORrVsS70J8dxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 07:00:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xd06djfk9t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZD3OG9rTvESm7rDv2Nec/2tVxJPf1ORrVsS70J8dxs="
+        }
+      ]
+    }
+  ]
+}
